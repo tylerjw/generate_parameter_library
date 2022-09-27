@@ -2,6 +2,11 @@
 Changelog for package generate_parameter_library
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.6 (2022-09-27)
+------------------
+* Added -- for ros-args to find (`#71 <https://github.com/PickNikRobotics/generate_parameter_library/issues/71>`_)
+* Contributors: Michael Wrock
+
 0.2.5 (2022-09-20)
 ------------------
 * 🚀 Add cmake macros for using tests with example yaml files. 🤖 (`#57 <https://github.com/PickNikRobotics/generate_parameter_library/issues/57>`_)
